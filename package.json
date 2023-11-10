@@ -1,0 +1,14 @@
+{
+  "name": "gram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ex3ndr/gram.git",
+  "author": "Steve Korshakov <steve@korshakov.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.8",
+    "@types/node": "^20.9.0",
+    "jest": "^29.7.0",
+    "typescript": "^5.2.2"
+  }
+}
